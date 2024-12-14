@@ -1,0 +1,160 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+
+#EXTINF:-1 ,TVP 
+http://109.233.89.166/TVP_HD/mono.m3u8
+#EXTINF:-1 ,TVP 1
+http://109.233.89.166/TVP1_HD/mono.m3u8
+#EXTINF:-1 ,TVP 2
+http://109.233.89.166/TVP2_HD/mono.m3u8
+#EXTINF:0 ,13
+http://109.233.89.166/13ULICA_HD/mono.m3u8
+#EXTINF:-1 ,TVP Info 
+http://109.233.89.166/TVP_INFO_HD/mono.m3u8
+#EXTINF:-1 ,Romance TV 
+http://109.233.89.166/Romance_TV_HD/mono.m3u8
+#EXTINF:-1 ,Zoom TV  
+http://109.233.89.166/Zoom_TV_HD/mono.m3u8
+#EXTINF:-1 ,Paramount_Channel  
+http://109.233.89.166/Paramount_Channel_HD/mono.m3u8
+#EXTINF:-1 ,Food Network  
+http://109.233.89.166/Food_Network_HD/mono.m3u8
+#EXTINF:-1 ,Cinemax  
+http://109.233.89.166/CINEMAX_HD/mono.m3u8
+#EXTINF:-1 ,Cinemax 2 
+http://109.233.89.166/CINEMAX_2_HD/mono.m3u8
+#EXTINF:-1 ,TVP Sport  
+http://109.233.89.166/TVP_Sport_HD/mono.m3u8
+#EXTINF:-1 ,AMC  
+http://109.233.89.166/AMC_HD/mono.m3u8
+#EXTINF:-1 ,Polsat  
+http://109.233.89.166/Polsat_HD/mono.m3u8
+#EXTINF:-1 ,DTX  
+http://109.233.89.166/DTX_HD/mono.m3u8
+#EXTINF:-1 ,ESKA TV 
+http://109.233.89.166/ESKA_TV_HD/mono.m3u8
+#EXTINF:-1 ,Super Polsat  
+http://109.233.89.166/Super_Polsat_HD/mono.m3u8
+#EXTINF:-1 ,TVN 7  
+http://109.233.89.166/TVN_7_HD/mono.m3u8
+#EXTINF:-1 ,Polsat 2
+http://109.233.89.166/Polsat_2_HD/mono.m3u8
+#EXTINF:-1 ,TVN 
+http://109.233.89.166/TVN_HD/mono.m3u8
+#EXTINF:-1 ,TVN Fabuła
+http://109.233.89.166/TVN_Fabula_HD/mono.m3u8
+#EXTINF:-1 ,WP 
+http://109.233.89.166/WP_HD/mono.m3u8
+#EXTINF:-1 ,Warner TV
+http://109.233.89.166/TNT_HD/mono.m3u8
+#EXTINF:-1 ,Comedy Central 
+http://109.233.89.166/Comedy_Central_HD/mono.m3u8
+#EXTINF:-1 ,HBO 
+http://109.233.89.166/HBO_HD/mono.m3u8
+#EXTINF:-1 ,HBO 2
+http://109.233.89.166/HBO_2_HD/mono.m3u8
+#EXTINF:-1 ,HBO 3
+http://109.233.89.166/HBO_3_HD/mono.m3u8
+#EXTINF:-1 ,Cartoon Network  
+http://109.233.89.166/Cartoon_Network_HD/mono.m3u8
+#EXTINF:-1 ,Boomerang 
+http://109.233.89.166/Boomerang_HD/mono.m3u8
+#EXTINF:-1 ,Discovery_Historia
+http://109.233.89.166/Discovery_Historia/mono.m3u8
+#EXTINF:-1 ,Eleven Sports 1 
+http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
+#EXTINF:-1 ,Eleven Sports 2
+http://109.233.89.166/Eleven_Sports_2_HD/mono.m3u8
+#EXTINF:-1 ,Eleven Sports 3 
+http://109.233.89.166/Eleven_Sports_3_HD/mono.m3u8
+#EXTINF:-1 ,Eleven Sports 4
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
+#EXTINF:-1 ,FX
+http://109.233.89.166/FOX_HD/mono.m3u8
+#EXTINF:-1 ,HGTV 
+http://109.233.89.166/HGTV/mono.m3u8
+#EXTINF:-1 ,TV 4
+http://109.233.89.166/TV4_HD/mono.m3u8
+#EXTINF:-1 ,TV 6 
+http://109.233.89.166/TV6_HD/mono.m3u8
+#EXTINF:-1 ,WELT
+http://109.233.89.166/WELT/mono.m3u8
+#EXTINF:-1 ,VH1
+http://109.233.89.166/VH1/mono.m3u8
+#EXTINF:-1 ,TeenNick  
+http://109.233.89.166/TeenNick/mono.m3u8
+#EXTINF:-1 ,Polonia 1
+http://109.233.89.166/Polonia_1/mono.m3u8
+#EXTINF:-1 ,Tele 5
+http://109.233.89.166/Tele5_HD/mono.m3u8
+#EXTINF:-1 ,MTV Hits
+http://109.233.89.166/MTV_Hits/mono.m3u8
+#EXTINF:-1 ,Disney Channel  
+http://109.233.89.166/Disney_Channel/mono.m3u8
+#EXTINF:-1 ,TVN Turbo
+http://109.233.89.166/TVN_Turbo_HD/mono.m3u8
+#EXTINF:-1 ,Travel Channel 
+http://109.233.89.166/Travel_Channel_HD/mono.m3u8
+#EXTINF:-1 ,Disney Junior
+http://109.233.89.166/Disney_Junior/mono.m3u8
+#EXTINF:-1 ,World Fashion Channel  
+http://109.233.89.166/World_Fashion_Channel/mono.m3u8
+#EXTINF:-1 ,VOX
+http://109.233.89.166/VOX/mono.m3u8
+#EXTINF:-1 ,Fashion TV
+http://109.233.89.166/Fashion_TV/mono.m3u8
+#EXTINF:-1 ,History
+http://109.233.89.166/History_HD/mono.m3u8
+#EXTINF:-1 ,History 2
+http://109.233.89.166/History_2_HD/mono.m3u8
+#EXTINF:-1 ,National Geographic Wild
+http://109.233.89.166/National_Geographic_Wild_HD/mono.m3u8
+#EXTINF:-1 ,Animal Planet 
+http://109.233.89.166/Animal_Planet_HD/mono.m3u8
+#EXTINF:-1 ,Eurosport 1 
+http://109.233.89.166/Eurosport_1_HD/mono.m3u8
+#EXTINF:-1 ,Eurosport 2 
+http://109.233.89.166/Eurosport_2_HD/mono.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://109.233.89.166/Nickelodeon/mono.m3u8
+#EXTINF:-1 ,BBC World News
+http://109.233.89.166/BBC_World_News/mono.m3u8
+#EXTINF:-1 ,AXN
+http://178.219.128.68:64888/AXN
+#EXTINF:-1 ,DTX
+http://178.219.128.68:64888/DTXHD
+#EXTINF:-1 ,ID
+http://178.219.128.68:64888/IDHD
+#EXTINF:-1 ,TLC
+http://178.219.128.68:64888/TLCHD
+#EXTINF:-1 ,Duck TV
+http://178.219.128.68:64888/DUCKTV
+#EXTINF:-1 ,Nick Jr
+http://178.219.128.68:64888/NICKJR
+#EXTINF:-1 ,MTV Polska
+http://178.219.128.68:64888/MTVHD
+#EXTINF:-1 ,TVN7
+http://178.219.128.68:64888/TVN7HD
+#EXTINF:-1 ,TVN 24
+http://178.219.128.68:64888/TVN2HD
+#EXTINF:-1 ,TVS
+http://178.219.128.68:64888/TVS
+#EXTINF:-1 ,TELE 5
+http://178.219.128.68:64888/TELE5HD
+#EXTINF:-1 ,4FUN
+http://178.219.128.68:64888/4FUNTV
+#EXTINF:-1 ,4FUN KIDS
+http://178.219.128.68:64888/4FUNKIDS
+#EXTINF:-1 ,KINO
+http://178.219.128.68:64888/KINOTV
+#EXTINF:-1 ,POLO
+http://178.219.128.68:64888/POLOTV
+#EXTINF:-1 ,Warner TV
+http://178.219.128.68:64888/TNTHD
+#EXTINF:-1 ,CANAL+ SERIALE
+http://178.219.128.68:64888/CANASERIHD
+#EXTINF:-1 ,13 ULICA
+http://178.219.128.68:64888/13ULICHD
+#EXTINF:-1 ,Canal+ Premium
+http://178.219.128.68:64889/CANAHD
+#EXTINF:-1 ,Disney XD
+http://178.219.128.68:64888/DISNXD

@@ -1,0 +1,427 @@
+#EXTM3U8 url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+1.png",TVP 1
+http://109.233.89.170/TVP1_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+2.png",TVP 2
+http://109.233.89.170/TVP2_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+3+Warszawa1.png",TVP 3 Warszawa
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Warszawa
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TV+4.png",TV 4
+http://109.233.89.170/TV4_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat.png",Polsat
+http://109.233.89.170/Polsat_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVN.png",TVN
+http://109.233.89.170/TVN_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TV+Puls.png",TV Puls
+http://109.233.89.166/TV_Puls_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVN+7.png",TVN 7
+http://109.233.89.170/TVN_7_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Puls+2.png",Puls 2
+http://178.219.128.68:64889/PULS2HD
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TV+6.png",TV 6
+http://109.233.89.170/TV6_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Super+Polsat.png",Super Polsat
+http://109.233.89.170/Super_Polsat_HD/index.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Eska+TV.png",ESKA TV
+http://109.233.89.170/ESKA_TV_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TTV.png",TTV
+http://178.219.128.68:64889/TTVHD
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Polo+TV.png",Polo TV
+http://178.219.128.68:64888/POLOTV
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Antena.png",Antena
+http://109.233.89.170/Antena_TV_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TV+TRWAM.png",Trwam
+http://109.233.89.170/TV_TRWAM/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Stopklatka+TV.png",Stopklatka
+http://109.233.89.170/Stopklatka_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Focus.png",Fokus TV
+https://89.187.167.247/FokusTV.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Polonia.png",TVP Polonia
+http://109.233.89.170/TVP_Polonia_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Nauka.png",TVP Nauka
+http://109.233.89.170/TVP_Nauka/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+HD.png",TVP
+http://109.233.89.170/TVP_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+2.png",Polsat 2
+http://109.233.89.170/Polsat_2_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polonia+1.png",Polonia 1
+http://109.233.89.170/Polonia_1/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png",TVP Dokument
+http://109.233.89.170/TVP_Dokument_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/NOWA+TV.png",TVP Seriale
+http://109.233.89.170/TVP_Seriale_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Tele+5.png",Tele 5
+http://109.233.89.170/Tele_5_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Rozrywka.png",TVP Rozrywka
+http://109.233.89.170/TVP_Rozrywka/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Alfa+TVP.png",Alfa TVP
+http://109.233.89.170/Alfa_TVP_HD/index.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/TVP+ABC.png",TVP ABC
+http://109.233.89.170/TVP_ABC/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Kultura.png",TVP Kultura
+http://free.jokertv.eu:8765/stream-forwarder/TVPKultura
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Historia.png",TVP Historia
+http://109.233.89.170/TVP_Historia/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/TVP+Sport.png",TVP Sport
+http://109.233.89.170/TVP_Sport_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Kultura+2.png",TVP Kultura 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPKultura2
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/TVP+Info.png",TVP Info
+http://109.233.89.170/TVP_INFO_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Kobieta.png",TVP Kobieta
+http://109.233.89.170/TVP_Kobieta_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Belsat+TV.png",Biełsat
+https://irylek.ct8.pl/stream/blelsat
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Food+Network.png",Food Network
+http://109.233.89.170/Food_Network_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/METRO.png",Metro TV
+http://109.233.89.170/Metro_TV_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Discovery+Historia.png",Discovery Historia
+http://109.233.89.170/Discovery_Historia/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/NOWA+TV.png",Nowa TV
+http://109.233.89.170/NOWA_TV_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/WP.png",WP
+http://109.233.89.170/WP_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Discovery+Channel.png",Discovery
+http://109.233.89.170/Discovery_Channel/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/HGTV.png",HGTV
+http://109.233.89.170/HGTV/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Travel+Channel.png",Travel Channel
+http://109.233.89.170/Travel_Channel_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/History.png",History
+http://109.233.89.170/History_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/History+2.png",History 2
+http://109.233.89.170/History_2_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Nat+Geo+Wild+HD.png",National Geographic Wild
+http://109.233.89.170/National_Geographic_Wild_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Animal+Planet.png",Animal Planet
+http://109.233.89.170/Animal_Planet_HD/index.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/Wydarzenia+24.png",Wydarzenia 24
+http://109.233.89.170/Wydarzenia_24_HD/index.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/BBC+World+News.png",BBC World News
+http://109.233.89.170/BBC_World_News/index.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/TV+Republika.png",TV Republika
+http://109.233.89.170/TV_Republika_HD/index.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/wPolsce+24.png",wPolsce 24
+http://109.233.89.170/wPolsce.PL/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVN+Style.png",TVN Style
+http://109.233.89.170/TVN_Style_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Da+Vinci+Learning.png",Da Vinci
+http://109.233.89.170/Da_Vinci_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+Doku.png",Polsat Doku
+http://109.233.89.170/Polsat_Doku_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+Play.png",Polsat Play
+http://109.233.89.170/Polsat_Play_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+Café.png",Polsat Cafe
+http://109.233.89.170/Polsat_Cafe_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Discovery+Life.png",Discovery Life
+http://109.233.89.170/Discovery_Life_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Motowizja.png",Motowizja
+http://109.233.89.170/Motowizja_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+Rodzina.png",Polsat Rodzina
+http://109.233.89.170/Polsat_Rodzina_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Polsat+Seriale.png",Polsat Seriale
+http://109.233.89.170/Polsat_Seriale_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/BBC+Earth.png",BBC Earth
+http://109.233.89.170/BBC_Earth_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/BBC+Brit.png",BBC Brit
+http://109.233.89.170/BBC_Brit_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/SCI+FI.png",SciFi
+http://109.233.89.170/SciFi_HD/index.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/ID.png",ID
+http://109.233.89.170/ID_HD/index.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/Polsat+News.png",Polsat News
+http://109.233.89.170/Polsat_News_HD/index.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/TVN+24.png",TVN 24
+http://109.233.89.170/TVN_24_HD/index.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/Polsat+News+Polityka.png",Polsat News Polityka
+http://109.233.89.170/Polsat_News_Polityka/index.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/TVN+Turbo.png",TVN Turbo
+http://109.233.89.170/TVN_Turbo_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/HBO.png",HBO
+http://109.233.89.170/HBO_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/HBO+2.png",HBO 2
+http://109.233.89.170/HBO_2_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/HBO+3.png",HBO 3
+http://109.233.89.170/HBO_3_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/ROMANCE+TV.png",Romance TV
+http://109.233.89.170/Romance_TV_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/ZOOM+TV.png",Zoom TV
+http://109.233.89.170/Zoom_TV_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Paramount+Channel.png",Paramount Channel
+http://109.233.89.170/Paramount_Channel_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Cinemax.png",Cinemax
+http://109.233.89.170/CINEMAX_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Cinemax+2.png",Cinemax 2
+http://109.233.89.170/CINEMAX_2_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/AMC.png",AMC
+http://109.233.89.170/AMC_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/DTX.png",DTX
+http://109.233.89.170/DTX_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Warner+TV.png",Warner TV
+http://109.233.89.170/TNT_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Comedy+Central.png",Comedy Central
+http://109.233.89.170/Comedy_Central_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/FOX.png",FX
+http://109.233.89.170/FOX_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/13+Ulica.png",13 Ulica
+http://109.233.89.170/13_Ulica_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/TVN+Fabula.png",TVN Fabuła
+http://109.233.89.170/TVN_Fabula_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Polsat+Film.png",Polsat Film
+http://109.233.89.170/Polsat_Film_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Adventure.png",Adventure
+http://109.233.89.170/Adventure_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Red+Carpet+TV.png",Red Carpet
+http://109.233.89.170/Red_Carpet_TV_HD/index.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/CBS+REALITY+POLSKA.png",CBS Reality
+http://109.233.89.170/CBS_Reality_HD/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Eleven+Sports+1.png",Eleven Sports 1
+http://109.233.89.170/Eleven_Sports_1_HD/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Eleven+Sports+2.png",Eleven Sports 2
+http://109.233.89.170/Eleven_Sports_2_HD/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Eleven+Sports+3.png",Eleven Sports 3
+http://109.233.89.170/Eleven_Sports_3_HD/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png",Eleven Sports 4
+http://109.233.89.170/ELEVEN_SPORTS_4_HD/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Eurosport.png",Eurosport 1
+http://109.233.89.170/Eurosport_1_HD/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Eurosport+2.png",Eurosport 2
+http://109.233.89.170/Eurosport_2_HD/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Polsat+Sport+1.png",Polsat Sport 1
+http://109.233.89.170/Polsat_Sport_HD/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Polsat+Sport+3.png",Polsat Sport 3
+http://109.233.89.170/Polsat_Sport_News_HD/index.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/MTV+Hits.png",MTV Hits
+http://109.233.89.170/MTV_Hits/index.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/MTV+Polska.png",MTV Polska
+http://109.233.89.170/MTV_Polska_HD/index.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/MTV+Live.png",MTV Live
+http://109.233.89.170/MTV_Live_HD/index.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Polsat+Music.png",Polsat Music
+http://109.233.89.170/Polsat_Music_HD/index.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Cartoon+Network.png",Cartoon Network
+http://109.233.89.170/Cartoon_Network_HD/index.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/CARTOONITO.png",Cartoonito
+http://109.233.89.170/Boomerang_HD/index.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/TeenNick.png",TeenNick
+http://109.233.89.170/TeenNick/index.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Disney+Channel.png",Disney Channel
+http://109.233.89.170/Disney_Channel/index.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Disney+Junior.png",Disney Junior
+http://109.233.89.170/Disney_Junior/index.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Nickelodeon.png",Nickelodeon
+http://109.233.89.170/Nickelodeon/index.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Baby+TV.png",Baby TV
+http://178.219.128.68:64889/BABYTV
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Domo+.png",Domo+
+http://178.219.128.68:64889/DOMOHD
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Polsat+Spor+HD.png",Polsat Sport
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Polsat+Sport+News1.png",Polsat Sport News
+http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Ale+Kino+.png",Ale Kino+
+http://178.219.128.68:64889/ALEKINOHD
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Eska+Rock+TV.png",Eska Rock
+http://178.219.128.68:64889/ESKAROCKTV
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Canal++Seriale.png",Canal+ Seriale
+http://178.219.128.68:64888/CANASERIHD
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Canal++Film.png",Canal+ Film
+http://178.219.128.68:64889/CANAFILMHD
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Canal++Premium.png",Canal+ Premium
+http://178.219.128.68:64889/CANAHD
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Canal+1.png",Canal+ 1
+http://178.219.128.68:64889/CANA1HD
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/AXN.png",AXN
+http://178.219.128.68:64888/AXN
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/TLC.png",TLC
+http://178.219.128.68:64888/TLCHD
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Duck+TV.png",Duck TV
+http://178.219.128.68:64888/DUCKTV
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/DuckTV+Plus.png",Duck TV Plus
+http://46.102.100.197:9191/udp/239.239.17.19:1234
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Nick+Jr.png",Nick Jr
+http://178.219.128.68:64888/NICKJR
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVS.png",TVS
+http://178.219.128.68:64888/TVS
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/4FUN.TV.png",4FUN
+http://178.219.128.68:64888/4FUNTV
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png",4FUN KIDS
+http://178.219.128.68:64888/4FUNKIDS
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Kino+TV.png",KINO TV
+http://178.219.128.68:64888/KINOTV
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Disney+XD.png",Disney XD
+http://178.219.128.68:64888/DISNXD
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/Biznes+24.png",Biznes 24
+http://46.102.100.197:9191/udp/239.239.17.21:1234
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/WATER+PLANET.png",Water Planet
+http://46.102.100.197:9191/udp/239.239.17.163:1234
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Twoja.TV+HD.png",Twoja TV
+http://46.102.100.197:9191/udp/239.239.17.198:1234
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+Wilno.png",TVP Wilno
+http://free.jokertv.eu:8765/stream-forwarder/TVPWilno
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TVP+World.png",TVP World
+http://free.jokertv.eu:8765/stream-forwarder/TVPWorld
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Antena.png",Antena
+http://109.233.89.166/Antena_TV_HD/mono.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/METRO.png",Metro
+https://89.187.167.247/METROTV.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Canal++Domo.png",Canal+ Domo
+https://89.187.167.247/domo.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Canal++Kuchnia.png",Canal+ Kuchnia
+https://89.187.167.247/kuchniaplus.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Canal++Family.png",Canal+ Family
+https://89.187.167.247/CANALPLUSFAMILY.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/NOVELA+TV.png",Novela TV
+https://89.187.167.247/Novela.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Paramount+Network.png",Paramount Network
+https://89.187.167.247/PARAMOUNTCHANNEL.stream/playlist.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Minimini+.png",Mini Mini+
+https://89.187.167.247/MINIMINI.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Active+Family.png",Active Family
+https://89.187.167.247/ACTIVEFAMILY.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Epic+Drama.png",Epic Drama
+https://89.187.167.247/EPICDRAMA.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/AXN+White.png",AXN White
+https://89.187.167.247/AXNWHITE.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/AXN+Black.png",AXN Black
+https://89.187.167.247/AXNBLACK.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/AXN+Spin.png",AXN Spin
+https://89.187.167.247/AXNSPIN.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Kino+Polska.png",Kino Polska
+https://89.187.167.247/KINOPOLSKA.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Filmbox+Arthouse.png",FilmBox Arthouse
+https://89.187.167.247/FILMBOXARTHOUSE.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/FilmBox+Action.png",FilmBox Action
+https://89.187.167.247/FILMBOXACTION.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Filmbox+Premium.png",FilmBox Premium
+https://89.187.167.247/FILMBOXPREMIUM.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Filmbox+Extra+HD.png",FilmBox Extra
+https://89.187.167.247/FILMBOXEXTRA.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/Filmbox+Family.png",FilmBox Family
+https://89.187.167.247/FILMBOXFAMILY.stream/playlist.m3u8
+#EXTINF:0 group-title="Dokument" tvg-logo="https://epg.ovh/logo/TVP+Historia+2.png",TVP Historia 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPHistoria2
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/TVN+24+BiS.png",TVN 24 BIS
+https://89.187.167.247/TVN24BIS.stream/playlist.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://epg.ovh/logo/Polsat+News+2.png",Polsat News 2
+https://89.187.167.247/PolsatNews2.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/TV+Puls.png",Puls
+https://89.187.167.247/TVPuls.stream/playlist.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://i.postimg.cc/ZR8trMhh/c.png",CBeebies
+https://89.187.167.247/CBeebies.stream/playlist.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/TVP+ABC+2.png",TVP ABC 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPABC2
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Nick+Jr..png",Nick Jr.
+https://89.187.167.247/NickJr.stream/playlist.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Nicktoons.png",Nicktoons
+https://89.187.167.247/Nicktoons.stream/playlist.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Nuta+TV.png",Nuta TV
+https://89.187.167.247/nuta.stream/playlist.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Eska+TV+Extra.png",Eska TV Extra
+https://89.187.167.247/EskaTVExtra.stream/playlist.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Stars+TV.png",Stars TV
+https://89.187.167.247/STARSTV.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Bollywood.png",Bollywood
+https://89.187.167.247/Bollywood.stream/playlist.m3u8
+#EXTINF:0 group-title="Bajki" tvg-logo="https://epg.ovh/logo/Teletoon.png",Teletoon+
+https://89.187.167.247/Teletoon.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/HOME+TV.png",Home TV
+https://89.187.167.247/HOMETV.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/National+Geographic+Channel+HD.png",National Geographic
+https://89.187.167.247/nationalgeographic.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png",NatGeo People
+https://89.187.167.247/natgeopeople.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Nat+Geo+Wild.png",NatGeo Wild
+https://89.187.167.247/natgeowild.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Planete+.png",Planete+
+https://89.187.167.247/PlanetePlus.stream/playlist.m3u8
+#EXTINF:0 group-title="Kino" tvg-logo="https://epg.ovh/logo/FX+Comedy.png",FX Comedy
+https://89.187.167.247/FOXCOMEDY.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport.png",Canal+ Sport
+https://89.187.167.247/canalsport1_trans.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png",Canal+ Sport 2
+https://89.187.167.247/canalplussport2.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+3+PL.png",Canal+ Sport 3
+https://89.187.167.247/canalplussport3.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+PL.png",Canal+ Sport 4
+https://89.187.167.247/canalplussport4.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png",Canal+ Sport 5
+https://89.187.167.247/nsport_trans.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Discovery+Channel.png",Discovery Channel
+https://89.187.167.247/discoverychannel.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Discovery+Science.png",Discovery Science
+https://89.187.167.247/discoverysience.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/E!+Entertainment.png",E! Entertainment
+https://89.187.167.247/epolska.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Extreme+Sports+Channel.png",Extreme Sports
+https://89.187.167.247/extremesportchanell.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/FightBox.png",FightBox
+https://89.187.167.247/fightbox.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+Crime.png",Polsat Crime
+https://89.187.167.247/polsatcrimeinvest.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+Comedy+Central+Extra.png",Polsat Comedy Extra
+https://89.187.167.247/polsat_comedy_central.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+Games.png",Polsat Games
+https://89.187.167.247/polsatgames.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Extra.png",Polsat Sport Extra
+https://89.187.167.247/polsatsportextra.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Fight.png",Polsat Sport Fight
+https://89.187.167.247/sportfight_trans.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1.png",Polsat Sport Premium 1
+https://89.187.167.247/polsatsportp1.stream/playlist.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2.png",Polsat Sport Premium 2
+https://89.187.167.247/polsatsportp2.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Polsat+Viasat+Nature.png",Polsat Viasat Explore
+https://89.187.167.247/viasatexplore.stream/playlist.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/4+Fun+Dance.png",4 Fun Dance
+https://89.187.167.247/4fundance.stream/playlist.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/4FUN.TV.png",4 Fun TV
+https://89.187.167.247/4funtv.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/BBC+First.png",BBC First
+https://89.187.167.247/bbchd.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/BBC+Lifestyle.png",BBC LifeStyle
+https://89.187.167.247/bbclifestyle.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/CBS+Europa.png",CBS Europa
+https://89.187.167.247/cbseuropa.stream/playlist.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Disco+Polo+Music.png",Disco Polo Music
+https://89.187.167.247/discopolomusic.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/NICKMUSIC.png",Nick Music
+https://89.187.167.247/nickmusic.stream/playlist.m3u8
+#EXTINF:0 group-title="Muzyka" tvg-logo="https://epg.ovh/logo/Vox+Music+TV.png",Vox Music TV
+https://89.187.167.247/voxmusic.stream/playlist.m3u8
+#EXTINF:0 group-title="Ogólne" tvg-logo="https://epg.ovh/logo/Nuta+Gold.png",Nuta Gold
+https://89.187.167.247/GoldTV.stream/playlist.m3u8
+#EXTINF:0 group-title="Info" tvg-logo="https://i.postimg.cc/ZRtgzBRN/sejm.png",TVP Parlament SEJM
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSEJM
+#EXTINF:0 group-title="Info" tvg-logo="https://i.postimg.cc/gcfKSFxw/senat.png",TVP Parlament SENAT
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSENAT
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/zPSpvss.jpg",TVP 3 Białystok
+https://cdndai.pl/tvp3bialystoksd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/b0Xevsc.jpg",TVP 3 Bydgoszcz
+https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/wGZCj7G.jpg",TVP 3 Gdańsk
+https://cdndai.pl/tvp3gdansksd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/H3jtBQm.jpg",TVP 3 Gorzów Wielkopolski
+https://cdndai.pl/tvp3gorzowsd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/burRKHa.jpg",TVP 3 Katowice
+https://cdndai.pl/tvp3katowicesd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/YcQxM94.jpg",TVP 3 Kielce
+https://cdndai.pl/tvp3kielcesd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/MbAKxD1.jpg",TVP 3 Kraków
+https://cdndai.pl/tvp3krakowsd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/r5wxdkB.jpg",TVP 3 Łódź
+https://cdndai.pl/tvp3lodzsd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/h7oq2yg.jpg",TVP 3 Lublin
+https://cdndai.pl/tvp3lublinsd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/Aa0HedU.jpg",TVP 3 Olsztyn
+https://cdndai.pl/tvp3olsztynsd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/dYRtDRA.jpg",TVP 3 Opole
+https://cdndai.pl/tvp3opolesd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg",TVP 3 Poznań
+https://cdndai.pl/tvp3poznansd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg",TVP 3 Rzeszów
+https://cdndai.pl/tvp3rzeszowsd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/NRb6S8z.jpg",TVP 3 Szczecin
+https://cdndai.pl/tvp3szczecinsd/index.m3u8
+#EXTINF:0 group-title="Regionalne" tvg-logo="https://i.imgur.com/0em2QIh.jpg",TVP 3 Wrocław
+https://cdndai.pl/tvp3wroclawsd/index.m3u8

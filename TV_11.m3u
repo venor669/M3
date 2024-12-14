@@ -1,0 +1,379 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+HD.png" group-title="📺 Ogólne",TVP
+https://cdn-nvm-chicago2.lolokoko.tv/TVPHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+1.png" group-title="📺 Ogólne",TVP 1
+https://cdn-nvm-chicago2.lolokoko.tv/TVP1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+2.png" group-title="📺 Ogólne",TVP 2
+https://cdn-nvm-chicago2.lolokoko.tv/TVP2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TV+Republika.png" group-title="📰 Info",TV Republika
+https://cdn-nvm-chicago2.lolokoko.tv/TVREPUBLIKA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/wPolsce+24.png" group-title="📰 Info",wPolsce 24
+https://cdn-nvm-chicago2.lolokoko.tv/wpolscepl.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png" group-title="🏛️ Dokument",TVP Dokument
+https://cdn-nvm-chicago2.lolokoko.tv/tvp_dokument.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Wydarzenia+24.png" group-title="📰 Info",Wydarzenia 24
+https://cdn-nvm-chicago2.lolokoko.tv/superstacja.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+News+Polityka.png" group-title="📰 Info",Polsat News Polityka
+https://cdn-nvm-chicago2.lolokoko.tv/PolsatNewsPolityka.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/WP1.png" group-title="📺 Ogólne",WP
+https://cdn-nvm-chicago2.lolokoko.tv/wp1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Focus.png" group-title="📺 Ogólne",Fokus TV
+https://cdn-nvm-chicago2.lolokoko.tv/FokusTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVN+HD.png" group-title="📺 Ogólne",TVN
+https://cdn-nvm-chicago2.lolokoko.tv/TVN.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVN+7.png" group-title="📺 Ogólne",TVN 7
+https://cdn-nvm-chicago2.lolokoko.tv/TVN7.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+HD.png" group-title="📺 Ogólne",Polsat
+https://cdn-nvm-chicago2.lolokoko.tv/Polsat.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+2.png" group-title="📺 Ogólne",Polsat 2
+https://cdn-nvm-chicago2.lolokoko.tv/Polsat2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Super+Polsat.png" group-title="📺 Ogólne",Super Polsat
+https://cdn-nvm-chicago2.lolokoko.tv/SUPERPOLSAT.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TV+4.png" group-title="📺 Ogólne",TV 4
+https://cdn-nvm-chicago2.lolokoko.tv/TV4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Info.png" group-title="📰 Info",TVP Info
+https://cdn-nvm-chicago2.lolokoko.tv/TVPInfo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Antena.png" group-title="📺 Ogólne",Antena TV
+http://109.233.89.166/Antena_TV_HD/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/METRO.png" group-title="📺 Ogólne",Metro
+https://cdn-nvm-chicago2.lolokoko.tv/METROTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/NOWA+TV.png" group-title="📺 Ogólne",Nowa TV
+https://cdn-nvm-chicago2.lolokoko.tv/NOWATV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Tele+5.png" group-title="📺 Ogólne",Tele 5
+https://cdn-nvm-chicago2.lolokoko.tv/Tele5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/HBO.png" group-title="🎬 Kino",HBO
+https://cdn-nvm-chicago2.lolokoko.tv/HBO.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/HBO+2.png" group-title="🎬 Kino",HBO 2
+https://cdn-nvm-chicago2.lolokoko.tv/HBO2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/HBO+3.png" group-title="🎬 Kino",HBO 3
+https://cdn-nvm-chicago2.lolokoko.tv/HBO3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Ale+Kino+.png" group-title="🎬 Kino",Ale kino+
+https://cdn-nvm-chicago2.lolokoko.tv/AleKino.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Domo.png" group-title="📺 Ogólne",Canal+ Domo
+https://cdn-nvm-chicago2.lolokoko.tv/domo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Kuchnia.png" group-title="📺 Ogólne",Canal+ Kuchnia
+https://cdn-nvm-chicago2.lolokoko.tv/kuchniaplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++360.png" group-title="🎬 Kino",Canal+ 360
+https://cdn-nvm-chicago2.lolokoko.tv/CANALPLUSFAMILY.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++1.png" group-title="🎬 Kino",Canal+ 1
+http://178.219.128.68:64889/CANA1HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Seriale.png" group-title="🎬 Kino",Canal+ Seriale
+https://cdn-nvm-chicago2.lolokoko.tv/CANALPLUSSERIALE.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Film.png" group-title="🎬 Kino",Canal+ Film
+https://cdn-nvm-chicago2.lolokoko.tv/CANALPLUSFILM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Premium.png" group-title="🎬 Kino",Canal+ Premium
+https://cdn-nvm-chicago2.lolokoko.tv/CANALPLUSHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Cinemax.png" group-title="🎬 Kino",Cinemax
+https://cdn-nvm-chicago2.lolokoko.tv/CINEMAXHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Cinemax+2.png" group-title="🎬 Kino",Cinemax 2
+https://cdn-nvm-chicago2.lolokoko.tv/cinemaxcentraleurope2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Red+Carpet+TV.png" group-title="🎬 Kino",Red Carpet
+https://cdn-nvm-chicago2.lolokoko.tv/REDCARPET.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/AMC.png" group-title="🎬 Kino",AMC
+https://cdn-nvm-chicago2.lolokoko.tv/AMC.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/NOVELA+TV.png" group-title="🎬 Kino",Novela TV
+https://cdn-nvm-chicago2.lolokoko.tv/Novela.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Paramount+Network.png" group-title="🎬 Kino",Paramount Network
+https://cdn-nvm-chicago2.lolokoko.tv/PARAMOUNTCHANNEL.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TLC.png" group-title="🎬 Kino",TLC
+https://cdn-nvm-chicago2.lolokoko.tv/TLC.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Minimini+.png" group-title="🧒 Bajki",Mini Mini+
+https://cdn-nvm-chicago2.lolokoko.tv/MINIMINI.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Active+Family.png" group-title="🎬 Kino",Active Family
+https://cdn-nvm-chicago2.lolokoko.tv/ACTIVEFAMILY.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Epic+Drama.png" group-title="🎬 Kino",Epic Drama
+https://cdn-nvm-chicago2.lolokoko.tv/EPICDRAMA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/AXN.png" group-title="🎬 Kino",AXN
+https://cdn-nvm-chicago2.lolokoko.tv/axnpolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/AXN+White.png" group-title="🎬 Kino",AXN White
+https://cdn-nvm-chicago2.lolokoko.tv/AXNWHITE.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/AXN+Black.png" group-title="🎬 Kino",AXN Black
+https://cdn-nvm-chicago2.lolokoko.tv/AXNBLACK.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/AXN+Spin.png" group-title="🎬 Kino",AXN Spin
+https://cdn-nvm-chicago2.lolokoko.tv/AXNSPIN.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/13+Ulica.png" group-title="🎬 Kino",13 Ulica
+https://cdn-nvm-chicago2.lolokoko.tv/13ULICA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TV+6.png" group-title="📺 Ogólne",TV 6
+https://cdn-nvm-chicago2.lolokoko.tv/TV6.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/MTV+Polska.png" group-title="🎧 Muzyka",MTV Polska
+https://cdn-nvm-chicago2.lolokoko.tv/MTVPolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/MTV+00S.png" group-title="🎧 Muzyka",MTV 00s
+https://cdn-nvm-chicago2.lolokoko.tv/MTV00s.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/MTV+90s.png" group-title="🎧 Muzyka",MTV 90s
+https://cdn-nvm-chicago2.lolokoko.tv/MTV90s.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Kino+Polska.png" group-title="🎬 Kino",Kino Polska
+https://cdn-nvm-chicago2.lolokoko.tv/KINOPOLSKA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Filmbox+Arthouse.png" group-title="🎬 Kino",FilmBox Arthouse
+https://cdn-nvm-chicago2.lolokoko.tv/FILMBOXARTHOUSE.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/FilmBox+Action.png" group-title="🎬 Kino",FilmBox Action
+https://cdn-nvm-chicago2.lolokoko.tv/FILMBOXACTION.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Filmbox+Premium.png" group-title="🎬 Kino",FilmBox Premium
+https://cdn-nvm-chicago2.lolokoko.tv/FILMBOXPREMIUM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Filmbox+Extra+HD.png" group-title="🎬 Kino",FilmBox Extra
+https://cdn-nvm-chicago2.lolokoko.tv/FILMBOXEXTRA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Filmbox+Family.png" group-title="🎬 Kino",FilmBox Family
+https://cdn-nvm-chicago2.lolokoko.tv/FILMBOXFAMILY.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Rodzina.png" group-title="📺 Ogólne",Polsat Rodzina
+https://cdn-nvm-chicago2.lolokoko.tv/PolsatRodzina.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/DTX.png" group-title="🎬 Kino",DTX
+https://cdn-nvm-chicago2.lolokoko.tv/DTX.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TTV.png" group-title="📺 Ogólne",TTV
+https://cdn-nvm-chicago2.lolokoko.tv/TTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVN+Fabula.png" group-title="🎬 Kino",TVN Fabuła
+https://cdn-nvm-chicago2.lolokoko.tv/TVNFABULA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polonia+1.png" group-title="📺 Ogólne",Polonia 1
+https://cdn-nvm-chicago2.lolokoko.tv/POLONIA1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Historia.png" group-title="🏛️ Dokument",TVP Historia
+https://cdn-nvm-chicago2.lolokoko.tv/TVPHistoria.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Historia+2.png" group-title="🏛️ Dokument",TVP Historia 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPHistoria2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Kultura.png" group-title="📺 Ogólne",TVP Kultura
+https://cdn-nvm-chicago2.lolokoko.tv/TVPKultura.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Kultura+2.png" group-title="📺 Ogólne",TVP Kultura 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPKultura2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Seriale.png" group-title="🎬 Kino",TVP Seriale
+https://cdn-nvm-chicago2.lolokoko.tv/TVPSeriale.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Rozrywka.png" group-title="📺 Ogólne",TVP Rozrywka
+https://cdn-nvm-chicago2.lolokoko.tv/TVPRozrywka.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVN+24.png" group-title="📰 Info",TVN 24
+https://cdn-nvm-chicago2.lolokoko.tv/TVN24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVN+24+BiS.png" group-title="📰 Info",TVN 24 BIS
+https://cdn-nvm-chicago2.lolokoko.tv/TVN24BIS.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVN+Turbo.png" group-title="📺 Ogólne",TVN Turbo
+https://cdn-nvm-chicago2.lolokoko.tv/TVNTURBO.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Motowizja.png" group-title="📺 Ogólne",Motowizja
+https://cdn-nvm-chicago2.lolokoko.tv/motowizja.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TNT.png" group-title="🎬 Kino",Warner TV
+https://cdn-nvm-chicago2.lolokoko.tv/TNT.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Kino+TV.png" group-title="🎬 Kino",Kino TV
+https://cdn-nvm-chicago2.lolokoko.tv/FilmBox.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Film.png" group-title="🎬 Kino",Polsat Film
+https://cdn-nvm-chicago2.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+News.png" group-title="📰 Info",Polsat News
+https://cdn-nvm-chicago2.lolokoko.tv/PolsatNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+News+2.png" group-title="📰 Info",Polsat News 2
+https://cdn-nvm-chicago2.lolokoko.tv/PolsatNews2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Sport.png" group-title="⚽️ Sport",TVP Sport
+https://cdn-nvm-chicago2.lolokoko.tv/TVPSport.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Sport.png" group-title="⚽️ Sport",Polsat Sport 1
+https://cdn-nvm-chicago2.lolokoko.tv/PolsatSport.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TV+Puls.png" group-title="📺 Ogólne",Puls
+https://cdn-nvm-chicago2.lolokoko.tv/TVPuls.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Puls+2.png" group-title="📺 Ogólne",Puls 2
+https://cdn-nvm-chicago2.lolokoko.tv/TVPuls2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TV+Trwam.png" group-title="📰 Info",Trwam
+https://cdn-nvm-chicago2.lolokoko.tv/TVTrwam.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Stopklatka+TV.png" group-title="🎬 Kino",Stopklatka
+https://cdn-nvm-chicago2.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+3+Warszawa.png" group-title="📺 Ogólne",TVP3 Warszawa
+https://cdn-nvm-chicago2.lolokoko.tv/TVP3Warszawa.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.postimg.cc/ZR8trMhh/c.png" group-title="🧒 Bajki",CBeebies
+https://cdn-nvm-chicago2.lolokoko.tv/CBeebies.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+ABC.png" group-title="🧒 Bajki",TVP ABC
+https://cdn-nvm-chicago2.lolokoko.tv/TVPABC.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+ABC+2.png" group-title="🧒 Bajki",TVP ABC 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPABC2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Disney+Junior.png" group-title="🧒 Bajki",Disney Junior
+https://cdn-nvm-chicago2.lolokoko.tv/DisneyJunior.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Disney+XD.png" group-title="🧒 Bajki",Disney XD
+https://cdn-nvm-chicago2.lolokoko.tv/DisneyXD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Nickelodeon.png" group-title="🧒 Bajki",Nickelodeon
+https://cdn-nvm-chicago2.lolokoko.tv/Nickelodeon.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Nick+Jr..png" group-title="🧒 Bajki",Nick Jr.
+https://cdn-nvm-chicago2.lolokoko.tv/NickJr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Nicktoons.png" group-title="🧒 Bajki",Nicktoons
+https://cdn-nvm-chicago2.lolokoko.tv/Nicktoons.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Nuta+TV.png" group-title="🎧 Muzyka",Nuta TV
+https://cdn-nvm-chicago2.lolokoko.tv/nuta.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polo+TV.png" group-title="🎧 Muzyka",Polo TV
+https://cdn-nvm-chicago2.lolokoko.tv/PoloTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Eska+TV.png" group-title="🎧 Muzyka",Eska TV
+https://cdn-nvm-chicago2.lolokoko.tv/EskaTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Eska+TV+Extra.png" group-title="🎧 Muzyka",Eska TV Extra
+https://cdn-nvm-chicago2.lolokoko.tv/EskaTVExtra.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Stars+TV.png" group-title="🎧 Muzyka",Stars TV
+https://cdn-nvm-chicago2.lolokoko.tv/STARSTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Bollywood.png" group-title="📺 Ogólne",Bollywood
+https://cdn-nvm-chicago2.lolokoko.tv/Bollywood.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/ZOOM+TV.png" group-title="📺 Ogólne",Zoom TV
+https://cdn-nvm-chicago2.lolokoko.tv/ZOOMTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVS.png" group-title="📺 Ogólne",TVS
+https://cdn-nvm-chicago2.lolokoko.tv/TVS.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Teletoon.png" group-title="🧒 Bajki",Teletoon+
+https://cdn-nvm-chicago2.lolokoko.tv/Teletoon.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/HGTV.png" group-title="📺 Ogólne",HGTV
+https://cdn-nvm-chicago2.lolokoko.tv/HGTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/HOME+TV.png" group-title="📺 Ogólne",Home TV
+https://cdn-nvm-chicago2.lolokoko.tv/HOMETV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/HISTORY.png" group-title="📺 Ogólne",History
+https://cdn-nvm-chicago2.lolokoko.tv/HISTORY.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/H2.png" group-title="📺 Ogólne",History 2
+https://cdn-nvm-chicago2.lolokoko.tv/h2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Animal+Planet.png" group-title="📺 Ogólne",Animal Planet
+https://cdn-nvm-chicago2.lolokoko.tv/AnimalPlanet.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/National+Geographic+Channel+HD.png" group-title="📺 Ogólne",National Geographic
+https://cdn-nvm-chicago2.lolokoko.tv/nationalgeographic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png" group-title="📺 Ogólne",NatGeo People
+https://cdn-nvm-chicago2.lolokoko.tv/natgeopeople.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Nat+Geo+Wild.png" group-title="📺 Ogólne",NatGeo Wild
+https://cdn-nvm-chicago2.lolokoko.tv/natgeowild.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Planete+.png" group-title="📺 Ogólne",Planete+
+https://cdn-nvm-chicago2.lolokoko.tv/PlanetePlus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/FX+Comedy.png" group-title="🎬 Kino",FX Comedy
+https://cdn-nvm-chicago2.lolokoko.tv/FOXCOMEDY.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/FX.png" group-title="🎬 Kino",FX
+https://cdn-nvm-chicago2.lolokoko.tv/FOXPolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Sport.png" group-title="⚽️ Sport",Canal+ Sport
+https://cdn-nvm-chicago2.lolokoko.tv/canalsport1_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="⚽️ Sport",Canal+ Sport 2
+https://cdn-nvm-chicago2.lolokoko.tv/canalplussport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Sport+3+PL.png" group-title="⚽️ Sport",Canal+ Sport 3
+https://cdn-nvm-chicago2.lolokoko.tv/canalplussport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+PL.png" group-title="⚽️ Sport",Canal+ Sport 4
+https://cdn-nvm-chicago2.lolokoko.tv/canalplussport4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png" group-title="⚽️ Sport",Canal+ Sport 5
+https://cdn-nvm-chicago2.lolokoko.tv/nsport_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Cartoon+Network.png" group-title="🧒 Bajki",Cartoon Network
+https://cdn-nvm-chicago2.lolokoko.tv/cartonnetwork.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Comedy+Central.png" group-title="🎬 Kino",Comedy Central
+https://cdn-nvm-chicago2.lolokoko.tv/comedycentralpolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.juniorowo.pl/wp-content/uploads/2016/01/logo.jpg" group-title="📺 Ogólne",Da Vinci
+https://cdn-nvm-chicago2.lolokoko.tv/davinci.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Discovery+Channel.png" group-title="📺 Ogólne",Discovery Channel
+https://cdn-nvm-chicago2.lolokoko.tv/discoverychannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Discovery+Historia.png" group-title="📺 Ogólne",Discovery Historia
+https://cdn-nvm-chicago2.lolokoko.tv/discoveryhistoria.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Discovery+Life.png" group-title="📺 Ogólne",Discovery Life
+https://cdn-nvm-chicago2.lolokoko.tv/discoverylife.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Discovery+Science.png" group-title="📺 Ogólne",Discovery Science
+https://cdn-nvm-chicago2.lolokoko.tv/discoverysience.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Travel+Channel.png" group-title="📺 Ogólne",Travel Channel
+https://cdn-nvm-chicago2.lolokoko.tv/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Eleven+Sports+1.png" group-title="⚽️ Sport",Eleven Sports 1
+https://cdn-nvm-chicago2.lolokoko.tv/eleven1_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Eleven+Sports+2.png" group-title="⚽️ Sport",Eleven Sports 2
+https://cdn-nvm-chicago2.lolokoko.tv/eleven2_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Eleven+Sports+3.png" group-title="⚽️ Sport",Eleven Sports 3
+https://cdn-nvm-chicago2.lolokoko.tv/eleven3_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="⚽️ Sport",Eleven Sports 4
+https://cdn-nvm-chicago2.lolokoko.tv/eleven4_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/E!+Entertainment.png" group-title="📺 Ogólne",E! Entertainment
+https://cdn-nvm-chicago2.lolokoko.tv/epolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Eurosport+PL.png" group-title="⚽️ Sport",EuroSport 1
+https://cdn-nvm-chicago2.lolokoko.tv/eurosport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Eurosport+2.png" group-title="⚽️ Sport",EuroSport 2
+https://cdn-nvm-chicago2.lolokoko.tv/eurosport2polska.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Extreme+Sports+Channel.png" group-title="⚽️ Sport",Extreme Sports
+https://cdn-nvm-chicago2.lolokoko.tv/extremesportchanell.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/FightBox.png" group-title="⚽️ Sport",FightBox
+https://cdn-nvm-chicago2.lolokoko.tv/fightbox.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Food+Network.png" group-title="📺 Ogólne",Food Network
+https://cdn-nvm-chicago2.lolokoko.tv/foodnetwork.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Crime.png" group-title="📺 Ogólne",Polsat Crime
+https://cdn-nvm-chicago2.lolokoko.tv/polsatcrimeinvest.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Café.png" group-title="📺 Ogólne",Polsat Cafe
+https://cdn-nvm-chicago2.lolokoko.tv/polsatcafe.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Comedy+Central+Extra.png" group-title="📺 Ogólne",Polsat Comedy Extra
+https://cdn-nvm-chicago2.lolokoko.tv/polsat_comedy_central.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Doku.png" group-title="🏛️ Dokument",Polsat Doku
+https://cdn-nvm-chicago2.lolokoko.tv/polsatdoku.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Games.png" group-title="📺 Ogólne",Polsat Games
+https://cdn-nvm-chicago2.lolokoko.tv/polsatgames.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Music.png" group-title="🎧 Muzyka",Polsat Music
+https://cdn-nvm-chicago2.lolokoko.tv/polsatmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Play.png" group-title="📺 Ogólne",Polsat Play
+https://cdn-nvm-chicago2.lolokoko.tv/polsatplay.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Fight.png" group-title="⚽️ Sport",Polsat Sport Fight
+https://cdn-nvm-chicago2.lolokoko.tv/sportfight_trans.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Sport+2.png" group-title="⚽️ Sport",Polsat Sport 2
+https://cdn-nvm-chicago2.lolokoko.tv/polsatsportextra.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Sport+3.png" group-title="⚽️ Sport",Polsat Sport 3
+https://cdn-nvm-chicago2.lolokoko.tv/polsatsportnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+1.png" group-title="⚽️ Sport",Polsat Sport Premium 1
+https://cdn-nvm-chicago2.lolokoko.tv/polsatsportp1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Sport+Premium+2.png" group-title="⚽️ Sport",Polsat Sport Premium 2
+https://cdn-nvm-chicago2.lolokoko.tv/polsatsportp2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/POLSAT+Viasat+Explore.png" group-title="📺 Ogólne",Polsat Viasat Explore
+https://cdn-nvm-chicago2.lolokoko.tv/viasatexplore.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Viasat+History.png" group-title="📺 Ogólne",Polsat Viasat History
+https://cdn-nvm-chicago2.lolokoko.tv/viasathistory.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Viasat+Nature.png" group-title="📺 Ogólne",Polsat Viasat Nature
+https://cdn-nvm-chicago2.lolokoko.tv/viasatnature.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/4+Fun+Dance.png" group-title="🎧 Muzyka",4 Fun Dance
+https://cdn-nvm-chicago2.lolokoko.tv/4fundance.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png" group-title="🧒 Bajki",4 Fun Kids
+https://cdn-nvm-chicago2.lolokoko.tv/4funhits2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/4FUN.TV.png" group-title="🎧 Muzyka",4 Fun TV
+https://cdn-nvm-chicago2.lolokoko.tv/4funtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/BBC+Brit.png" group-title="📺 Ogólne",BBC Brit
+https://cdn-nvm-chicago2.lolokoko.tv/bbcbritpolska.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/BBC+Earth.png" group-title="📺 Ogólne",BBC Earth
+https://cdn-nvm-chicago2.lolokoko.tv/bbcearth.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/BBC+First.png" group-title="📺 Ogólne",BBC First
+https://cdn-nvm-chicago2.lolokoko.tv/bbchd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/BBC+Lifestyle.png" group-title="📺 Ogólne",BBC LifeStyle
+https://cdn-nvm-chicago2.lolokoko.tv/bbclifestyle.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/CBS+Europa.png" group-title="📺 Ogólne",CBS Europa
+https://cdn-nvm-chicago2.lolokoko.tv/cbseuropa.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/CBS+REALITY.png" group-title="📺 Ogólne",CBS Reality
+https://cdn-nvm-chicago2.lolokoko.tv/cbsreality.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Disco+Polo+Music.png" group-title="🎧 Muzyka",Disco Polo Music
+https://cdn-nvm-chicago2.lolokoko.tv/discopolomusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/ID.png" group-title="📺 Ogólne",ID
+https://cdn-nvm-chicago2.lolokoko.tv/investigation.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/NICKMUSIC.png" group-title="📺 Ogólne",Nick Music
+https://cdn-nvm-chicago2.lolokoko.tv/nickmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/WATER+PLANET.png" group-title="📺 Ogólne",Water Planet
+https://cdn-nvm-chicago2.lolokoko.tv/waterplanet.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Vox+Music+TV.png" group-title="🎧 Muzyka",Vox Music TV
+https://cdn-nvm-chicago2.lolokoko.tv/voxmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Alfa+TVP.png" group-title="📺 Ogólne",Alfa TVP
+https://cdn-nvm-chicago2.lolokoko.tv/tvp_alfa.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Polonia.png" group-title="📺 Ogólne",TVP Polonia
+https://cdn-nvm-chicago2.lolokoko.tv/TVPPolonia.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+World.png" group-title="📺 Ogólne",TVP World
+https://cdn-nvm-chicago2.lolokoko.tv/TVPWorld.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Nauka.png" group-title="📺 Ogólne",TVP Nauka
+https://cdn-nvm-chicago2.lolokoko.tv/TVPNauka.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Nuta+Gold.png" group-title="📺 Ogólne",Nuta Gold
+https://cdn-nvm-chicago2.lolokoko.tv/GoldTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Kobieta.png" group-title="📺 Ogólne",TVP Kobieta
+https://cdn-nvm-chicago2.lolokoko.tv/tvp_kobieta.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.postimg.cc/VN26Qc2T/Zalewo.png" group-title="📽️ Monitoring",Zalewo Centrum
+https://s1.worldcam.live:8082/zalewo-fontanna/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.postimg.cc/ZRtgzBRN/sejm.png" group-title="📰 Info",TVP Parlament SEJM
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSEJM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.postimg.cc/gcfKSFxw/senat.png" group-title="📰 Info",TVP Parlament SENAT
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSENAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/zPSpvss.jpg" group-title="🎱 Regionalne",TVP 3 Białystok  
+https://cdndai.pl/tvp3bialystoksd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" group-title="🎱 Regionalne",TVP 3 Bydgoszcz  
+https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" group-title="🎱 Regionalne",TVP 3 Gdańsk  
+https://cdndai.pl/tvp3gdansksd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" group-title="🎱 Regionalne",TVP 3 Gorzów Wielkopolski 
+https://cdndai.pl/tvp3gorzowsd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="🎱 Regionalne",TVP 3 Katowice  
+https://cdndai.pl/tvp3katowicesd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/YcQxM94.jpg" group-title="🎱 Regionalne",TVP 3 Kielce  
+https://cdndai.pl/tvp3kielcesd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" group-title="🎱 Regionalne",TVP 3 Kraków  
+https://cdndai.pl/tvp3krakowsd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" group-title="🎱 Regionalne",TVP 3 Łódź  
+https://cdndai.pl/tvp3lodzsd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" group-title="🎱 Regionalne",TVP 3 Lublin  
+https://cdndai.pl/tvp3lublinsd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" group-title="🎱 Regionalne",TVP 3 Olsztyn  
+https://cdndai.pl/tvp3olsztynsd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" group-title="🎱 Regionalne",TVP 3 Opole  
+https://cdndai.pl/tvp3opolesd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" group-title="🎱 Regionalne",TVP 3 Poznań  
+https://cdndai.pl/tvp3poznansd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" group-title="🎱 Regionalne",TVP 3 Rzeszów  
+https://cdndai.pl/tvp3rzeszowsd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" group-title="🎱 Regionalne",TVP 3 Szczecin  
+https://cdndai.pl/tvp3szczecinsd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="🎱 Regionalne",TVP 3 Warszawa  
+https://cdndai.pl/tvp3warszawasd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/0em2QIh.jpg" group-title="🎱 Regionalne",TVP 3 Wrocław  
+https://cdndai.pl/tvp3wroclawsd/index.m3u8

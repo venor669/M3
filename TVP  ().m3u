@@ -1,0 +1,73 @@
+#EXTM3U8 url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 ,TVP
+http://109.233.89.166/TVP_HD/mono.m3u8
+#EXTINF:-1 ,TVP 1
+http://free.jokertv.eu:8765/stream-forwarder/TVP1
+#EXTINF:-1 ,TVP 2
+http://free.jokertv.eu:8765/stream-forwarder/TVP2
+#EXTINF:-1 ,TVP Info
+http://free.jokertv.eu:8765/stream-forwarder/TVPInfo
+#EXTINF:-1 ,TVP 3 Warsszawa
+http://free.jokertv.eu:8765/stream-forwarder/TVP3Warszawa
+#EXTINF:-1 ,TVP Polonia
+http://free.jokertv.eu:8765/stream-forwarder/TVPPolonia
+#EXTINF:-1 ,TVP ABC
+http://free.jokertv.eu:8765/stream-forwarder/TVPABC
+#EXTINF:-1 ,TVP ABC 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPABC2
+#EXTINF:-1 ,TVP Dokument
+http://free.jokertv.eu:8765/stream-forwarder/TVPDokument
+#EXTINF:-1 ,TVP Historia
+http://free.jokertv.eu:8765/stream-forwarder/TVPHistoria
+#EXTINF:-1 ,TVP Historia 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPHistoria2
+#EXTINF:-1 ,TVP Kultura
+http://free.jokertv.eu:8765/stream-forwarder/TVPKultura
+#EXTINF:-1 ,TVP Kultura 2
+http://free.jokertv.eu:8765/stream-forwarder/TVPKultura2
+#EXTINF:-1 ,Alfa TVP
+http://free.jokertv.eu:8765/stream-forwarder/AlfaTVP
+#EXTINF:-1 ,TVP Nauka
+http://free.jokertv.eu:8765/stream-forwarder/TVPNauka
+#EXTINF:-1 ,TVP Parlament SEJM
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSEJM
+#EXTINF:-1 ,TVP Parlament SENAT
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSENAT
+#EXTINF:-1 ,TVP Sport
+http://free.jokertv.eu:8765/stream-forwarder/TVPSport
+#EXTINF:-1 ,TVP Wilno
+http://free.jokertv.eu:8765/stream-forwarder/TVPWilno
+#EXTINF:-1 ,TVP World
+http://free.jokertv.eu:8765/stream-forwarder/TVPWorld
+#EXTINF:-1 ,TVP 3 Białystok
+https://cdndai.pl/tvp3bialystoksd/index.m3u8
+#EXTINF:-1 ,TVP 3 Bydgoszcz
+https://cdndai.pl/tvp3bydgoszczsd/index.m3u8
+#EXTINF:-1 ,TVP 3 Gdańsk
+https://cdndai.pl/tvp3gdansksd/index.m3u8
+#EXTINF:-1 ,TVP 3 Gorzów Wielkopolsk
+https://cdndai.pl/tvp3gorzowsd/index.m3u8
+#EXTINF:-1 ,TVP 3 Katowice
+https://cdndai.pl/tvp3katowicesd/index.m3u8
+#EXTINF:-1 ,TVP 3 Kielce
+https://cdndai.pl/tvp3kielcesd/index.m3u8
+#EXTINF:-1 ,TVP 3 Kraków
+https://cdndai.pl/tvp3krakowsd/index.m3u8
+#EXTINF:-1 ,TVP 3 Łódź
+https://cdndai.pl/tvp3lodzsd/index.m3u8
+#EXTINF:-1 ,TVP 3 Lublin
+https://cdndai.pl/tvp3lublinsd/index.m3u8
+#EXTINF:-1 ,TVP 3 Olsztyn
+https://cdndai.pl/tvp3olsztynsd/index.m3u8
+#EXTINF:-1 ,TVP 3 Opole
+https://cdndai.pl/tvp3opolesd/index.m3u8
+#EXTINF:-1 ,TVP 3 Poznań
+https://cdndai.pl/tvp3poznansd/index.m3u8
+#EXTINF:-1 ,TVP 3 Rzeszów
+https://cdndai.pl/tvp3rzeszowsd/index.m3u8
+#EXTINF:-1 ,TVP 3 Szczecin
+https://cdndai.pl/tvp3szczecinsd/index.m3u8
+#EXTINF:-1 ,TVP 3 Warszawa
+https://irylek.ct8.pl/stream/tvp3warszawahd
+#EXTINF:-1 ,TVP 3 Wrocław
+https://cdndai.pl/tvp3wroclawsd/index.m3u8

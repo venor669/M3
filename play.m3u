@@ -1,0 +1,361 @@
+#EXTM3U
+#EXTINF:-1 ,TVP
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42933&extension=m3u8
+#EXTINF:-1 ,TVP 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42936&extension=m3u8
+#EXTINF:-1 ,TVP 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42935&extension=m3u8
+#EXTINF:-1 ,TV REPUBLIKA
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51404&extension=m3u8
+#EXTINF:-1 ,wPolsce 24
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51415&extension=m3u8
+#EXTINF:-1 ,Novela Plus
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=166411&extension=m3u8
+#EXTINF:-1 ,TVN
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=36162&extension=m3u8
+#EXTINF:-1 ,TVN 7
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42941&extension=m3u8
+#EXTINF:-1 ,TVP 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42934&extension=m3u8
+#EXTINF:-1 ,13 Ulica
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43054&extension=m3u8
+#EXTINF:-1 ,Ale Kino+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43048&extension=m3u8
+#EXTINF:-1 ,AMC Polska
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43047&extension=m3u8
+#EXTINF:-1 ,ATM Rozrywka TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43044&extension=m3u8
+#EXTINF:-1 ,AXN
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43042&extension=m3u8
+#EXTINF:-1 ,AXN Black
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43043&extension=m3u8
+#EXTINF:-1 ,AXN White
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43040&extension=m3u8
+#EXTINF:-1 ,AXN Spin
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43041&extension=m3u8
+#EXTINF:-1 ,CANAL+ FILM
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=56857&extension=m3u8
+#EXTINF:-1 ,CBS Europa
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43024&extension=m3u8
+#EXTINF:-1 ,Cinemax
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43021&extension=m3u8
+#EXTINF:-1 ,Cinemax 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43022&extension=m3u8
+#EXTINF:-1 ,Comedy Central
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43020&extension=m3u8
+#EXTINF:-1 ,Epic Drama
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51359&extension=m3u8
+#EXTINF:-1 ,Power TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=122588&extension=m3u8
+#EXTINF:-1 ,Filmbox Action
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42999&extension=m3u8
+#EXTINF:-1 ,Filmbox Arthouse
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42998&extension=m3u8
+#EXTINF:-1 ,Filmbox Extra
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42997&extension=m3u8
+#EXTINF:-1 ,Filmbox Family
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42996&extension=m3u8
+#EXTINF:-1 ,FilmBox Premium
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42995&extension=m3u8
+#EXTINF:-1 ,FOX HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51367&extension=m3u8
+#EXTINF:-1 ,Fox Comedy
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42994&extension=m3u8
+#EXTINF:-1 ,HBO
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42990&extension=m3u8
+#EXTINF:-1 ,HBO 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42992&extension=m3u8
+#EXTINF:-1 ,HBO 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42991&extension=m3u8
+#EXTINF:-1 ,Crime & Investigation
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42987&extension=m3u8
+#EXTINF:-1 ,Kino Polska
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42986&extension=m3u8
+#EXTINF:-1 ,Kino TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51373&extension=m3u8
+#EXTINF:-1 ,Lifetime
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42982&extension=m3u8
+#EXTINF:-1 ,MTV Polska
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42980&extension=m3u8
+#EXTINF:-1 ,Polsat Film
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42969&extension=m3u8
+#EXTINF:-1 ,Polsat Rodzina
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42964&extension=m3u8
+#EXTINF:-1 ,Stopklatka TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42950&extension=m3u8
+#EXTINF:-1 ,Warner TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51399&extension=m3u8
+#EXTINF:-1 ,TV6
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42943&extension=m3u8
+#EXTINF:-1 ,TVP Rozrywka
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42928&extension=m3u8
+#EXTINF:-1 ,TVP Seriale
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42927&extension=m3u8
+#EXTINF:-1 ,4Fun Dance
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43053&extension=m3u8
+#EXTINF:-1 ,4Fun Gold Hits
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43052&extension=m3u8
+#EXTINF:-1 ,4Fun TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43051&extension=m3u8
+#EXTINF:-1 ,Disco Polo Music
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43017&extension=m3u8
+#EXTINF:-1 ,Eska Rock TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51362&extension=m3u8
+#EXTINF:-1 ,Eska TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51360&extension=m3u8
+#EXTINF:-1 ,Eska TV Extra
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51361&extension=m3u8
+#EXTINF:-1 ,Kino Polska Muzyka
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42985&extension=m3u8
+#EXTINF:-1 ,MTV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51378&extension=m3u8
+#EXTINF:-1 ,Music VOX
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42979&extension=m3u8
+#EXTINF:-1 ,Polsat Music
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42966&extension=m3u8
+#EXTINF:-1 ,STARS.TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51395&extension=m3u8
+#EXTINF:-1 ,MTV 00s
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42924&extension=m3u8
+#EXTINF:-1 ,Baby TV [Multi-Audio]
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43039&extension=m3u8
+#EXTINF:-1 ,BBC CBeebies HD 1080P
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51347&extension=m3u8
+#EXTINF:-1 ,Boomerang HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43036&extension=m3u8
+#EXTINF:-1 ,Cartoon Network
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43026&extension=m3u8
+#EXTINF:-1 ,Da Vinci
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43018&extension=m3u8
+#EXTINF:-1 ,Disney Channel
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43012&extension=m3u8
+#EXTINF:-1 ,Disney JR
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43011&extension=m3u8
+#EXTINF:-1 ,Disney XD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43010&extension=m3u8
+#EXTINF:-1 ,Nick JR
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51380&extension=m3u8
+#EXTINF:-1 ,NICKELODEON
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51381&extension=m3u8
+#EXTINF:-1 ,Nicktoons
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51382&extension=m3u8
+#EXTINF:-1 ,Polsat JimJam
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42967&extension=m3u8
+#EXTINF:-1 ,TVP ABC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51407&extension=m3u8
+#EXTINF:-1 ,Canal Seriale
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43031&extension=m3u8
+#EXTINF:-1 ,CANAL+ SERIALE
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51354&extension=m3u8
+#EXTINF:-1 ,Canal Sport
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43029&extension=m3u8
+#EXTINF:-1 ,Canal Sport 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43030&extension=m3u8
+#EXTINF:-1 ,CANAL SPORT 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=56855&extension=m3u8
+#EXTINF:-1 ,CANAL SPORT 4
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=56854&extension=m3u8
+#EXTINF:-1 ,Eleven Sports 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43007&extension=m3u8
+#EXTINF:-1 ,Eleven Sports 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43006&extension=m3u8
+#EXTINF:-1 ,Eleven Sports 3
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43005&extension=m3u8
+#EXTINF:-1 ,Eleven Sports 4
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43004&extension=m3u8
+#EXTINF:-1 ,Eurosport 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43003&extension=m3u8
+#EXTINF:-1 ,EuroSport 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43002&extension=m3u8
+#EXTINF:-1 ,Extreme Sports
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43001&extension=m3u8
+#EXTINF:-1 ,Fightbox
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43000&extension=m3u8
+#EXTINF:-1 ,Food Network
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51365&extension=m3u8
+#EXTINF:-1 ,nSport
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42975&extension=m3u8
+#EXTINF:-1 ,Paramount Channel
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42974&extension=m3u8
+#EXTINF:-1 ,Polsat Sport
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42961&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Extra
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42962&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Fight
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42960&extension=m3u8
+#EXTINF:-1 ,Polsat Sport News HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51390&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42959&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42958&extension=m3u8
+#EXTINF:-1 ,Polsat Sport Premium PPV 4
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42956&extension=m3u8
+#EXTINF:-1 ,SPORT KLUB
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51394&extension=m3u8
+#EXTINF:-1 ,TVP Sport
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42926&extension=m3u8
+#EXTINF:-1 ,Active Family
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51345&extension=m3u8
+#EXTINF:-1 ,Adventure
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43049&extension=m3u8
+#EXTINF:-1 ,Animal Planet
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43045&extension=m3u8
+#EXTINF:-1 ,BBC Earth
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43038&extension=m3u8
+#EXTINF:-1 ,BBC FIRST
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51348&extension=m3u8
+#EXTINF:-1 ,BBC HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43037&extension=m3u8
+#EXTINF:-1 ,Canal 1
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43035&extension=m3u8
+#EXTINF:-1 ,Canal+ 360
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43032&extension=m3u8
+#EXTINF:-1 ,CANAL HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51350&extension=m3u8
+#EXTINF:-1 ,Canal+ HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51353&extension=m3u8
+#EXTINF:-1 ,CBS Reality
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43023&extension=m3u8
+#EXTINF:-1 ,Discovery
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43016&extension=m3u8
+#EXTINF:-1 ,Discovery Historia
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51356&extension=m3u8
+#EXTINF:-1 ,Discovery Life
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43015&extension=m3u8
+#EXTINF:-1 ,Discovery Science
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43014&extension=m3u8
+#EXTINF:-1 ,Discovery Turbo Xtra
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43013&extension=m3u8
+#EXTINF:-1 ,Domo+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43009&extension=m3u8
+#EXTINF:-1 ,DTX
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51357&extension=m3u8
+#EXTINF:-1 ,E! Entertainment
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51358&extension=m3u8
+#EXTINF:-1 ,Fokus TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51364&extension=m3u8
+#EXTINF:-1 ,Golf Channel
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51368&extension=m3u8
+#EXTINF:-1 ,HGTV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42989&extension=m3u8
+#EXTINF:-1 ,History
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42988&extension=m3u8
+#EXTINF:-1 ,ID TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51371&extension=m3u8
+#EXTINF:-1 ,Kuchnia
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42983&extension=m3u8
+#EXTINF:-1 ,Metro HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51376&extension=m3u8
+#EXTINF:-1 ,MiniMini
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42981&extension=m3u8
+#EXTINF:-1 ,National Geographic
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42978&extension=m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42976&extension=m3u8
+#EXTINF:-1 ,NOWA
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51383&extension=m3u8
+#EXTINF:-1 ,Nuta TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43050&extension=m3u8
+#EXTINF:-1 ,Planete+
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51385&extension=m3u8
+#EXTINF:-1 ,Polo TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51386&extension=m3u8
+#EXTINF:-1 ,Polsat 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42973&extension=m3u8
+#EXTINF:-1 ,Polsat Doku HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51387&extension=m3u8
+#EXTINF:-1 ,Polsat Viasat Explore
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42953&extension=m3u8
+#EXTINF:-1 ,Polsat Viasat History
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42952&extension=m3u8
+#EXTINF:-1 ,Polsat Viasat Nature
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42951&extension=m3u8
+#EXTINF:-1 ,Red Carpet TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51392&extension=m3u8
+#EXTINF:-1 ,Romance TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51393&extension=m3u8
+#EXTINF:-1 ,SciFi Universal
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=43028&extension=m3u8
+#EXTINF:-1 ,Sundance TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42949&extension=m3u8
+#EXTINF:-1 ,Super Polsat
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51396&extension=m3u8
+#EXTINF:-1 ,teleTOON
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=56858&extension=m3u8
+#EXTINF:-1 ,TLC HD
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42948&extension=m3u8
+#EXTINF:-1 ,Travel Channel
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51402&extension=m3u8
+#EXTINF:-1 ,TTV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42947&extension=m3u8
+#EXTINF:-1 ,TV Puls 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42946&extension=m3u8
+#EXTINF:-1 ,TV Puls
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42945&extension=m3u8
+#EXTINF:-1 ,TVN 24 Bis
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51405&extension=m3u8
+#EXTINF:-1 ,TVN 24
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42942&extension=m3u8
+#EXTINF:-1 ,TVN Fabuła
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42940&extension=m3u8
+#EXTINF:-1 ,TVN Style
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42938&extension=m3u8
+#EXTINF:-1 ,TVN Turbo
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42937&extension=m3u8
+#EXTINF:-1 ,TVP Historia
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42932&extension=m3u8
+#EXTINF:-1 ,TVP Info
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42931&extension=m3u8
+#EXTINF:-1 ,TVP Kultura
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42930&extension=m3u8
+#EXTINF:-1 ,TVP Polonia
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42929&extension=m3u8
+#EXTINF:-1 ,TVS
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=47241&extension=m3u8
+#EXTINF:-1 ,Zoom TV
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51416&extension=m3u8
+#EXTINF:-1 ,Warner Tv
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129229&extension=m3u8
+#EXTINF:-1 ,Tele5
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129227&extension=m3u8
+#EXTINF:-1 ,Wydarzenia 24
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129226&extension=m3u8
+#EXTINF:-1 ,Nat Geo People
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129225&extension=m3u8
+#EXTINF:-1 ,Ci Polsat
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129224&extension=m3u8
+#EXTINF:-1 ,Canal Plus Domo
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129223&extension=m3u8
+#EXTINF:-1 ,(IT) QVC
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129222&extension=m3u8
+#EXTINF:-1 ,Antena
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129219&extension=m3u8
+#EXTINF:-1 ,History 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129218&extension=m3u8
+#EXTINF:-1 ,4Fun Kids
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129215&extension=m3u8
+#EXTINF:-1 ,Music Box Polska
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=129214&extension=m3u8
+#EXTINF:-1 ,Polsat
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42970&extension=m3u8
+#EXTINF:-1 ,Polsat Cafe
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42971&extension=m3u8
+#EXTINF:-1 ,Polsat News
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42965&extension=m3u8
+#EXTINF:-1 ,Polsat News 2
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51388&extension=m3u8
+#EXTINF:-1 ,Polsat Play
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=51389&extension=m3u8
+#EXTINF:-1 ,TV4
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=42944&extension=m3u8
+#EXTINF:-1 ,Fight Klub
+http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:C0:2F:75&stream=119657&extension=m3u8
+#EXTINF:-1 ,CANAL+ EXTRA 1
+http://vipnomim.top:8080/VIP0196172911145964/61729111459890/128981
+#EXTINF:-1 ,CANAL+ EXTRA 2
+http://vipnomim.top:8080/VIP0196172911145964/61729111459890/128982
+#EXTINF:-1 ,CANAL+ EXTRA 3
+http://vipnomim.top:8080/VIP0196172911145964/61729111459890/128983
+#EXTINF:-1 ,CANAL+ EXTRA 4
+http://vipnomim.top:8080/VIP0196172911145964/61729111459890/128984
